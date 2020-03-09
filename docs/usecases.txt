@@ -4,3 +4,4 @@
 1.Build this code from jenkins
 2.Deploy the code to tomcat server
 3.Use any configuration Management tool for nacheiving this
+4.Create a dockerfile also for this app
