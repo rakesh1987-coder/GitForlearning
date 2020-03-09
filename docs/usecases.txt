@@ -1,5 +1,7 @@
 ##testers
 1.Execute smoke tests on premise and cloud deployment
+2.execute selinum automated tests
+3.Add them to CI
 ###Devops
 1.Build this code from jenkins
 2.Deploy the code to tomcat server
