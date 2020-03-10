@@ -1,5 +1,7 @@
 ##testers
-1.Execute smoke tests on premise and cloud deploymens
+1.Execute smoke tests on premise and cloud deployments
+2.Execute slenium Automated Tests
+3.Add them to CI
 =======
 ##devoplers
 1.this code from jenkins
