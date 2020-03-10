@@ -5,4 +5,5 @@
 1.this code from jenkins
 2.Deploy the code to tomcat server
 3.Use any configuration Management tool for acheiving this.
+4.create docker file for this app
 
