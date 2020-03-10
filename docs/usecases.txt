@@ -1,3 +1,2 @@
-1.Build this code from jenkins
-2.Deploy the code to tomcat server
-3.Use any configuration Management tool for nacheiving this
+##testers
+1.Execute smoke tests on premise and cloud deployment
