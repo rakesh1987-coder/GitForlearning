@@ -1,3 +1,4 @@
+##devoplers
 1.this code from jenkins
 2.Deploy the code to tomcat server
-3.Use any configuration Management tool for nacheiving this1.Execute smoke tests on premise and cloud deployment
+3.Use any configuration Management tool for nacheiving this.
